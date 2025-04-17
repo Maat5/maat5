@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Manuel 👋</h1>
 <h3 align="center">A Full-Stack Developer.</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning about **AI and LangChain**
 - 💬 Ask me about **Angular, React, or Express**
 
 <h3 align="left">Connect with me:</h3>
